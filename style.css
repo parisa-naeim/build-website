@@ -1,0 +1,8 @@
+.main-image:hover {
+    transform: scale(1.2, 1.2);
+
+}
+
+.center {
+    margin: 0 auto;
+}
